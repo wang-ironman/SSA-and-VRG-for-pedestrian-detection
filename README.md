@@ -1,2 +1,2 @@
 # ssd-for-pedestrian-detection
-Pedestrian detection
+change ssd for Pedestrian detection
