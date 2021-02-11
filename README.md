@@ -43,7 +43,7 @@ The code was tested on Ubuntu 16.04, with Python 3.6 and PyTorch v0.4.1.
                 |-- SegmentationClass_visible
                 |-- SegmentationClass_weak
     ~~~
-2. Download the pre-trained model of VGG.
+2. Download the pre-trained model of VGG,then put it under the weights folder.
   ~~~
   [百度云链接](链接：https://pan.baidu.com/s/19nfPE-5FM743QmvY8_YW4g 提取码：xdcf)
   ~~~
