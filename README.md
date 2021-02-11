@@ -51,19 +51,19 @@ The code was tested on Ubuntu 16.04, with Python 3.6 and PyTorch v0.4.1.
 ### Training
 An example traning as follow:
 
-    ```
-    cd $ROOT
-    source activate pytorch0.4.1
-    CUDA_VISIBLE_DEVICES=0 python train_vis_seg.py
-    ```
+  ```
+  cd $ROOT
+  source activate pytorch0.4.1
+  CUDA_VISIBLE_DEVICES=0 python train_vis_seg.py
+  ```
 ### Test
 An example test as follow:
 
-    ```
-    cd $ROOT
-    source activate pytorch0.4.1
-    CUDA_VISIBLE_DEVICES=0 python test_vis_seg_all.py --trained_model output/ssd640_0712_90000.pth
-    ```
+  ```
+  cd $ROOT
+  source activate pytorch0.4.1
+  CUDA_VISIBLE_DEVICES=0 python test_vis_seg_all.py --trained_model output/ssd640_0712_90000.pth
+  ```
 ### Evalution
 1. Pre-process the detection txt file for evaluation
     ```
