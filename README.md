@@ -58,6 +58,7 @@ An example traning as follow:
     ~~~
 ### Test
 An example test as follow:
+
     ~~~
     cd $ROOT
     source activate pytorch0.4.1
