@@ -1,4 +1,4 @@
-# ssd-for-pedestrian-detection
+# SSA and VRG for pedestrian detection
 
 code for our paper"基于语义分割注意力和可见区域预测的行人检测网络".
 
