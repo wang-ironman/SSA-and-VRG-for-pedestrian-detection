@@ -30,7 +30,7 @@ The code was tested on Ubuntu 16.04, with Python 3.6 and PyTorch v0.4.1.
 
 ### Dataset Preparation
 
-1. Download Caltech datasets. （[The download link of the pre-processed data is here](http://baidu.com)）Organize them in Dataset folder as follows:
+1. Download Caltech datasets. （[The download link of the pre-processed data is here](https://pan.baidu.com/s/1MZI2zfOjflHHlePhS61wvw）Organize them in Dataset folder as follows:
 
     ~~~
     |-- data/
